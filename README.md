@@ -55,7 +55,3 @@ if __name__ == '__main__':
 Here's an example (account names are redacted on purpose):
 
 ![](example.png)
-
-### Maintenance & Bug Reports
-
-If you find any issues with the process or the code, please contact [shin.yoo@kaist.ac.kr](mailto:shin.yoo@kaist.ac.kr).
